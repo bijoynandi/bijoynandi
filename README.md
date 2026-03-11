@@ -65,8 +65,7 @@ Automated data pipeline orchestration
 - 📖 *Fundamentals of Data Engineering* — Reis & Housley
 
 **Courses completed:**
-- SQL for Data Analysis (Luke Barousse)
-- Python for Data Analysis (In Progress)
+- TBD
 
 ---
 
